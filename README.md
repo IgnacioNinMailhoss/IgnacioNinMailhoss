@@ -3,9 +3,6 @@
 <p align='center'>
 </p>
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=IgnacioNinMailhoss.IgnacioNinMailhoss)
-[![Github](https://img.shields.io/github/followers/IgnacioNinMailhoss?label=Follow&style=social)](https://github.com/IgnacioNinMailhoss)
-
 <div size='20px'> 
 Hi there! I'm Ignacio Nin, a passionate developer delivering digital solutions with extensive experience in web and mobile app development, AI solutions, and cutting-edge tech. Thank you for visiting my GitHub profile! 😄
 </div>
