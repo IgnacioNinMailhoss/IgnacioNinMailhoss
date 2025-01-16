@@ -37,7 +37,6 @@ Hi there! I'm Ignacio Nin, a passionate developer delivering digital solutions w
 <h2>Connect With Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"></h2>
 
 <a href="https://www.linkedin.com/in/ignacionin/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a>
-<a href="https://twitter.com/IgnacioNin"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/> </a>
 <a href="mailto:hello@nearshore.io"> <img width="32px" align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail"/> </a>
 <a href="https://www.github.com/IgnacioNinMailhoss"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> </a>
 
@@ -45,17 +44,4 @@ Hi there! I'm Ignacio Nin, a passionate developer delivering digital solutions w
 <br>
 <br>
 
-[![Ignacio's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IgnacioNinMailhoss&theme=tokyonight)](https://git.io/your-custom-url)
-
-| ![Ignacio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgnacioNinMailhoss&show_icons=true&theme=tokyonight) |
-| --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioNinMailhoss&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<br>
-
------
-Credits: [Ignacio Nin Mailhoss](https://github.com/IgnacioNinMailhoss)
-
-Last Edited on: 01/16/2025
+[![Ignacio's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IgnacioNinMailhoss&theme=tokyonight)](https://git.io/your-custom-url
