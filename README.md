@@ -20,7 +20,7 @@ Hi there! I'm <b>Ignacio Nin</b>, a passionate developer delivering innovative d
 - 🔭 **Currently Working On:** Freelance projects as a **Full Stack Developer**, with a focus on scalable web apps and AI solutions.  
 - 🌱 **Learning:** Advanced **AI Prompt Engineering**, **AWS**, and **Tailwind CSS**.  
 - 👯 **Looking to Collaborate On:** **AI-based projects**, **Next.js apps**, and **E-commerce platforms**.  
-- 💬 **Ask Me About:** JavaScript, Python, React, Angular, Tailwind CSS, AWS, and AI tools.  
+- 💬 **Ask Me About:** JavaScript, Python,PHP, React, Angular, Tailwind CSS, AWS, and AI tools.  
 - ⚡ **Fun Fact:** I love solving tech problems creatively and crafting seamless user experiences.  
 
 ---
