@@ -1,4 +1,4 @@
-<h1>Welcome to My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">🌟 Welcome to My GitHub! 🌟</h1> <p align="center"> Hi there! I'm <strong>Ignacio Nin</strong>, a passionate and dedicated full-stack developer with expertise in <em>web and mobile app development, AI-powered solutions, and cutting-edge technologies</em>. My goal is to create impactful digital experiences that blend innovation with functionality. </p> <p align="center"> Whether you’re here to explore my open-source projects, collaborate on exciting ideas, or just get inspired, I hope you enjoy your time here. Let's build the future of tech together! 🚀 </p> <p align="center"> Feel free to reach out, connect, and share ideas. Collaboration is where the magic happens! ✨ </p>
 
 <p align='center'>
 </p>
