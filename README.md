@@ -14,8 +14,8 @@ Hi there! I'm Ignacio Nin, a passionate developer delivering digital solutions w
 <img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 **Currently Working On:** Projects as a **Freelance Full Stack Developer**, specializing in scalable web apps and AI-powered tools.
-- 🌱 **Learning:** Advanced **AI Prompt Engineering**, **AWS**, and **Tailwind CSS** to stay ahead of industry trends.
-- 👯 **Looking to Collaborate On:** **AI-based projects**, **Next.js apps**, and **E-commerce platforms**.
+- 🌱 **Learning:** Advanced **AI Prompt Engineering **, **AWS**, and exploring emerging trends like Generative AI,Edge Computing, and Micro-frontend Architecture to stay at the forefront of industry innovation.
+- 👯 **Looking to Collaborate On:** **AI-driven applications**, **Software Development**, and **Web Application Development**.
 - 💬 **Ask Me About:** JavaScript, Python, React, Angular, Tailwind CSS, AWS, AI tools, WordPress, Shopify, Squarespace, and Go High Level.
 - ⚡ **Fun Fact:** I love creating seamless user experiences and am a big fan of creative problem-solving in tech!
 
