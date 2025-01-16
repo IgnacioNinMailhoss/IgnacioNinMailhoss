@@ -49,4 +49,13 @@ Hi there! I'm Ignacio Nin, a passionate developer delivering digital solutions w
 
 | ![Ignacio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgnacioNinMailhoss&show_icons=true&theme=tokyonight) |
 | --- |
-| ![Top Languages](https://
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioNinMailhoss&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<br>
+
+-----
+Credits: [Ignacio Nin Mailhoss](https://github.com/IgnacioNinMailhoss)
+
+Last Edited on: 01/16/2025
