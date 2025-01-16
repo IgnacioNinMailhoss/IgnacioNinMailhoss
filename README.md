@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    Whether you’re here to explore my open-source projects, collaborate on exciting ideas, or just get inspired, 
+    Whether you're here to explore my open-source projects, collaborate on exciting ideas, or just get inspired, 
     I hope you enjoy your time here. Let's build the future of tech together! 🚀
 </p>
 
