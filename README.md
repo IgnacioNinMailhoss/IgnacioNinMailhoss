@@ -3,6 +3,7 @@
 <p align='center'>
 </p>
 
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=IgnacioNinMailhoss.IgnacioNinMailhoss)
 [![Github](https://img.shields.io/github/followers/IgnacioNinMailhoss?label=Follow&style=social)](https://github.com/IgnacioNinMailhoss)
 
 <div size='20px'> 
@@ -14,8 +15,8 @@ Hi there! I'm Ignacio Nin, a passionate developer delivering digital solutions w
 <img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 **Currently Working On:** Projects as a **Freelance Full Stack Developer**, specializing in scalable web apps and AI-powered tools.
-- 🌱 **Learning:** Advanced **AI Prompt Engineering **, **AWS**, and exploring emerging trends like Generative AI,Edge Computing, and Micro-frontend Architecture to stay at the forefront of industry innovation.
-- 👯 **Looking to Collaborate On:** **AI-driven applications**, **Software Development**, and **Web Application Development**.
+- 🌱 **Learning:** Advanced **AI Prompt Engineering**, **AWS**, and **Tailwind CSS** to stay ahead of industry trends.
+- 👯 **Looking to Collaborate On:** **AI-based projects**, **Next.js apps**, and **E-commerce platforms**.
 - 💬 **Ask Me About:** JavaScript, Python, React, Angular, Tailwind CSS, AWS, AI tools, WordPress, Shopify, Squarespace, and Go High Level.
 - ⚡ **Fun Fact:** I love creating seamless user experiences and am a big fan of creative problem-solving in tech!
 
@@ -35,7 +36,7 @@ Hi there! I'm Ignacio Nin, a passionate developer delivering digital solutions w
 
 <h2>Connect With Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"></h2>
 
-<a href="https://www.linkedin.com/in/ignacioninmailhoss/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a>
+<a href="https://www.linkedin.com/in/ignacionin/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a>
 <a href="https://twitter.com/IgnacioNin"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/> </a>
 <a href="mailto:hello@nearshore.io"> <img width="32px" align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail"/> </a>
 <a href="https://www.github.com/IgnacioNinMailhoss"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> </a>
@@ -46,15 +47,6 @@ Hi there! I'm Ignacio Nin, a passionate developer delivering digital solutions w
 
 [![Ignacio's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IgnacioNinMailhoss&theme=tokyonight)](https://git.io/your-custom-url)
 
-| ![Ignacio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgnacioNinMailhoss&show_icons=true&theme=tokyonight) | ![Ignacio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgnacioNinMailhoss&theme=tokyonight) |
-| --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioNinMailhoss&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=IgnacioNinMailhoss&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<br>
-
------
-Credits: [Ignacio Nin Mailhoss](https://github.com/IgnacioNinMailhoss)
-
-Last Edited on: 01/16/2025
+| ![Ignacio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgnacioNinMailhoss&show_icons=true&theme=tokyonight) |
+| --- |
+| ![Top Languages](https://
