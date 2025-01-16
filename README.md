@@ -3,7 +3,6 @@
 <p align='center'>
 </p>
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=IgnacioNinMailhoss.IgnacioNinMailhoss)
 [![Github](https://img.shields.io/github/followers/IgnacioNinMailhoss?label=Follow&style=social)](https://github.com/IgnacioNinMailhoss)
 
 <div size='20px'> 
