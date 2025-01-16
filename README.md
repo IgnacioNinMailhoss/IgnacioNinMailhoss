@@ -41,7 +41,8 @@ Hi there! I'm <b>Ignacio Nin</b>, a passionate developer delivering innovative d
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg" alt="Angular">
   </a>
   <a href="https://github.com/IgnacioNinMailhoss?tab=repositories&q=&type=&language=tailwindcss&sort="> 
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwindcss.svg" alt="Tailwind CSS">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwindcss.svg" alt="Tailwind CSS Logo">
+
   </a>
   <a href="https://github.com/IgnacioNinMailhoss?tab=repositories&q=&type=&language=aws&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" alt="AWS">
