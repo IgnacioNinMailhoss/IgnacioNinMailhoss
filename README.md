@@ -44,4 +44,3 @@ Hi there! I'm Ignacio Nin, a passionate developer delivering digital solutions w
 <br>
 <br>
 
-[![Ignacio's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IgnacioNinMailhoss&theme=tokyonight)](https://git.io/your-custom-url
