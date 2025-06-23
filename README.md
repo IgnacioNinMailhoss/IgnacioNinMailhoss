@@ -1,9 +1,11 @@
 <h1 align="center">🌟 Welcome to My GitHub! 🌟</h1>
 
 <p align="center">
-    Hi there! I'm <strong>Ignacio Nin</strong>, a passionate and dedicated full-stack developer with expertise in 
-    <em>web and mobile app development, AI-powered solutions, and cutting-edge technologies</em>. 
-    My goal is to create impactful digital experiences that blend innovation with functionality.
+    👋 Hi, I'm Ignacio Nin — a full-stack developer with 10+ years of experience building scalable web and mobile applications.
+I specialize in blending clean code with strong UI/UX and cutting-edge AI solutions to deliver business-ready digital products.
+This GitHub showcases a selection of my personal and open-source work.
+If you're here from Upwork or another platform, feel free to browse — and don’t hesitate to reach out if you’re looking for a reliable tech partner for your next project.
+
 </p>
 
 <p align="center">
@@ -22,12 +24,24 @@
 <img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <ul>
-    <li>🔭 <strong>Currently Working On:</strong> Projects as a <strong>Freelance Full Stack Developer</strong>, specializing in scalable web apps and AI-powered tools.</li>
-    <li>🌱 <strong>Learning:</strong> Advanced <em>AI Prompt Engineering</em>, <em>AWS</em>, and exploring emerging trends like <em>Generative AI</em>, <em>Edge Computing</em>, and <em>Micro-frontend Architecture</em> to stay at the forefront of industry innovation.</li>
-    <li>👯 <strong>Looking to Collaborate On:</strong> <em>AI-driven applications</em>, <em>Software Development</em>, and <em>Web Application Development</em>.</li>
-    <li>💬 <strong>Ask Me About:</strong> JavaScript, Python, React, Angular, Tailwind CSS, AWS, AI tools, WordPress, Shopify, Squarespace, and Go High Level.</li>
-    <li>⚡ <strong>Fun Fact:</strong> I love creating seamless user experiences and am a big fan of creative problem-solving in tech!</li>
+🔎 About Me
+
+
+🔭 Currently Working On: Freelance projects focused on scalable web applications and AI-powered tools that solve real-world problems.
+
+👯 Looking to Collaborate On: AI-driven applications, full stack development, and innovative digital products.
+🌱 Learning: Prompt engineering, AWS, Generative AI, Edge Computing, and Micro-frontend Architecture.
+
 </ul>
+<ul>
+🔧 Skills & Tools
+Frontend: React · Angular · Tailwind CSS · WordPress
+
+Backend: Node.js · Python · Go High Level
+
+Cloud & DevOps: AWS · CI/CD pipelines
+
+AI & Automation: ChatGPT integrations · Generative AI · Prompt Engineering
 
 <h2>Skills 
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
