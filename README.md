@@ -35,6 +35,7 @@ If you're here from Upwork or another platform, feel free to browse — and don�
 </ul>
 <ul>
 🔧 Skills & Tools
+    
 Frontend: React · Angular · Tailwind CSS · WordPress
 
 Backend: Node.js · Python · Go High Level
